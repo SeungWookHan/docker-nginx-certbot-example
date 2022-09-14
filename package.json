@@ -1,0 +1,11 @@
+{
+  "name": "docker-nginx-certbot-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SeungWookHan/docker-nginx-certbot-example.git",
+  "author": "SeungWookHan <hswook12@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
