@@ -5,6 +5,9 @@
   "repository": "git@github.com:SeungWookHan/docker-nginx-certbot-example.git",
   "author": "SeungWookHan <hswook12@me.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
